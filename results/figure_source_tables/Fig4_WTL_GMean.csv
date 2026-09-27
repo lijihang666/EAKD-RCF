@@ -1,0 +1,15 @@
+﻿Method,win,tie,loss,WinTie,Total,MetricLabel
+LR,7,0,2,7,9,G-Mean
+RF,7,0,2,7,9,G-Mean
+XGBoost,8,0,1,8,9,G-Mean
+BalancedRF,7,0,2,7,9,G-Mean
+EasyEnsemble,8,0,1,8,9,G-Mean
+KD,8,0,1,8,9,G-Mean
+Yang-ATD-adapted,7,0,2,7,9,G-Mean
+BKD,8,0,1,8,9,G-Mean
+CBD,6,0,3,6,9,G-Mean
+CCKD,7,0,2,7,9,G-Mean
+SRW-KD,6,0,3,6,9,G-Mean
+UMKD-UDD-adapted,7,0,2,7,9,G-Mean
+CB-DistillGrad,8,0,1,8,9,G-Mean
+CalibKD,7,0,2,7,9,G-Mean

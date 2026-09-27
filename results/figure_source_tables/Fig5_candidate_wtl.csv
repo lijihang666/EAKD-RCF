@@ -1,0 +1,7 @@
+﻿Label,win,tie,loss,WinTie,Total
+Fixed fusion - MCC,6,2,1,8,9
+Fixed fusion - F1-score,6,2,1,8,9
+Fixed fusion - G-Mean,6,2,1,8,9
+w/o candidate pool - MCC,6,2,1,8,9
+w/o candidate pool - F1-score,6,2,1,8,9
+w/o candidate pool - G-Mean,6,2,1,8,9

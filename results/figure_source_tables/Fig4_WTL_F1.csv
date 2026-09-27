@@ -1,0 +1,15 @@
+﻿Method,win,tie,loss,WinTie,Total,MetricLabel
+LR,7,0,2,7,9,F1-score
+RF,9,0,0,9,9,F1-score
+XGBoost,8,0,1,8,9,F1-score
+BalancedRF,7,0,2,7,9,F1-score
+EasyEnsemble,8,0,1,8,9,F1-score
+KD,7,0,2,7,9,F1-score
+Yang-ATD-adapted,7,0,2,7,9,F1-score
+BKD,7,0,2,7,9,F1-score
+CBD,7,0,2,7,9,F1-score
+CCKD,7,0,2,7,9,F1-score
+SRW-KD,6,0,3,6,9,F1-score
+UMKD-UDD-adapted,8,0,1,8,9,F1-score
+CB-DistillGrad,9,0,0,9,9,F1-score
+CalibKD,6,0,3,6,9,F1-score

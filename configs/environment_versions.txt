@@ -1,0 +1,9 @@
+Python=3.13.4 (tags/v3.13.4:8a526ec, Jun  3 2025, 17:46:04) [MSC v.1943 64 bit (AMD64)]
+numpy=2.5.0
+pandas=3.0.3
+scikit-learn=1.9.0
+scipy=1.18.0
+torch=2.12.1+cpu
+xgboost=3.3.0
+imbalanced-learn=0.14.2
+matplotlib=3.11.0

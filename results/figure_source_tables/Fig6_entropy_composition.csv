@@ -1,0 +1,3 @@
+﻿Group,CorrectCount,WrongCount,CorrectPct,WrongPct,TotalPct
+"Low entropy (n=33,865)",33022,843,97.51070426694227,2.4892957330577303,100.0
+"High entropy (n=33,867)",26434,7433,78.05238137419907,21.947618625800928,100.0

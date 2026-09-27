@@ -1,0 +1,22 @@
+﻿reference_suite,reference_method,comparison_suite,comparison_method,metric,n_compared,same_keys,max_abs_diff,tolerance,status
+03_stage_contribution,ESTD-KD-RCF,04_final_ablation,ESTD-KD-RCF,MCC,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,04_final_ablation,ESTD-KD-RCF,F1,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,04_final_ablation,ESTD-KD-RCF,GMean,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,04_final_ablation,ESTD-KD-RCF,ECE,225,True,9.71445146547012e-17,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,04_final_ablation,ESTD-KD-RCF,Brier,225,True,1.1102230246251565e-16,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,04_final_ablation,ESTD-KD-RCF,threshold,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,04_final_ablation,ESTD-KD-RCF,y_prob,33790,True,6.106226635438361e-16,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,05_student_architecture,ESTD-KD-RCF [MLP-64-32],MCC,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,05_student_architecture,ESTD-KD-RCF [MLP-64-32],F1,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,05_student_architecture,ESTD-KD-RCF [MLP-64-32],GMean,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,05_student_architecture,ESTD-KD-RCF [MLP-64-32],ECE,225,True,9.71445146547012e-17,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,05_student_architecture,ESTD-KD-RCF [MLP-64-32],Brier,225,True,8.326672684688674e-17,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,05_student_architecture,ESTD-KD-RCF [MLP-64-32],threshold,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,05_student_architecture,ESTD-KD-RCF [MLP-64-32],y_prob,33790,True,6.661338147750939e-16,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,06_alpha_sensitivity,ESTD-KD-RCF [a0.50-0.95],MCC,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,06_alpha_sensitivity,ESTD-KD-RCF [a0.50-0.95],F1,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,06_alpha_sensitivity,ESTD-KD-RCF [a0.50-0.95],GMean,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,06_alpha_sensitivity,ESTD-KD-RCF [a0.50-0.95],ECE,225,True,1.0408340855860843e-16,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,06_alpha_sensitivity,ESTD-KD-RCF [a0.50-0.95],Brier,225,True,1.1102230246251565e-16,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,06_alpha_sensitivity,ESTD-KD-RCF [a0.50-0.95],threshold,225,True,0.0,1e-12,PASS
+03_stage_contribution,ESTD-KD-RCF,06_alpha_sensitivity,ESTD-KD-RCF [a0.50-0.95],y_prob,33790,True,4.440892098500626e-16,1e-12,PASS

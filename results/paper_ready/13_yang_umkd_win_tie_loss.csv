@@ -1,0 +1,11 @@
+﻿comparison,metric,win,tie,loss,tie_tolerance
+Ours vs Yang-ATD-adapted,MCC,6,0,3,1e-06
+Ours vs Yang-ATD-adapted,F1,7,0,2,1e-06
+Ours vs Yang-ATD-adapted,GMean,7,0,2,1e-06
+Ours vs Yang-ATD-adapted,ECE,3,0,6,1e-06
+Ours vs Yang-ATD-adapted,Brier,3,0,6,1e-06
+Ours vs UMKD-UDD-adapted,MCC,7,0,2,1e-06
+Ours vs UMKD-UDD-adapted,F1,8,0,1,1e-06
+Ours vs UMKD-UDD-adapted,GMean,7,0,2,1e-06
+Ours vs UMKD-UDD-adapted,ECE,4,0,5,1e-06
+Ours vs UMKD-UDD-adapted,Brier,6,0,3,1e-06

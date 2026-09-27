@@ -1,0 +1,26 @@
+﻿comparison,metric,win,tie,loss,tie_tolerance
+ESTD-KD-RCF (w/o adaptive temperature),MCC,7,0,2,1e-06
+ESTD-KD-RCF (w/o adaptive temperature),F1,6,0,3,1e-06
+ESTD-KD-RCF (w/o adaptive temperature),GMean,6,0,3,1e-06
+ESTD-KD-RCF (w/o adaptive temperature),ECE,4,0,5,1e-06
+ESTD-KD-RCF (w/o adaptive temperature),Brier,5,0,4,1e-06
+ESTD-KD-RCF (w/o global reliability KD strength),MCC,6,0,3,1e-06
+ESTD-KD-RCF (w/o global reliability KD strength),F1,6,0,3,1e-06
+ESTD-KD-RCF (w/o global reliability KD strength),GMean,6,0,3,1e-06
+ESTD-KD-RCF (w/o global reliability KD strength),ECE,7,0,2,1e-06
+ESTD-KD-RCF (w/o global reliability KD strength),Brier,4,0,5,1e-06
+ESTD-KD-RCF (w/o Brier),MCC,7,0,2,1e-06
+ESTD-KD-RCF (w/o Brier),F1,8,0,1,1e-06
+ESTD-KD-RCF (w/o Brier),GMean,6,0,3,1e-06
+ESTD-KD-RCF (w/o Brier),ECE,3,0,6,1e-06
+ESTD-KD-RCF (w/o Brier),Brier,5,0,4,1e-06
+ESTD-KD-RCF (fixed fusion),MCC,6,2,1,1e-06
+ESTD-KD-RCF (fixed fusion),F1,6,2,1,1e-06
+ESTD-KD-RCF (fixed fusion),GMean,6,2,1,1e-06
+ESTD-KD-RCF (fixed fusion),ECE,3,2,4,1e-06
+ESTD-KD-RCF (fixed fusion),Brier,4,2,3,1e-06
+ESTD-KD-RCF (w/o candidate pool),MCC,6,2,1,1e-06
+ESTD-KD-RCF (w/o candidate pool),F1,6,2,1,1e-06
+ESTD-KD-RCF (w/o candidate pool),GMean,6,2,1,1e-06
+ESTD-KD-RCF (w/o candidate pool),ECE,2,2,5,1e-06
+ESTD-KD-RCF (w/o candidate pool),Brier,3,2,4,1e-06

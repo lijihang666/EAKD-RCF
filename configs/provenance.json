@@ -1,0 +1,37 @@
+{
+  "paper_method": "EAKD-RCF",
+  "internal_frozen_method_identifier": "ESTD-KD-RCF",
+  "upstream_source_file": "ESTD_KD_RCF_SCIENTIFIC_REPORTS_FINAL.py",
+  "upstream_sha256": "E843259E9ADF3A38C2D911DA16F57EAD2D9471D1DB3D58ADBE9E5D0B409AE2A0",
+  "release_source_file": "src/eakd_rcf_final.py",
+  "release_sha256": "E04209F7EF6C0AF093E17C07D21615C57C055619A60F1A5932296710F92F0EF6",
+  "release_only_change": "Machine-specific default data and output paths were replaced with repository-relative defaults.",
+  "protocol": {
+    "datasets": 9,
+    "outer_splits": 5,
+    "repetitions": 5,
+    "outer_evaluations_per_dataset_method": 25,
+    "seeds": [42, 43, 44, 45, 46]
+  },
+  "frozen_main_parameters": {
+    "gamma": 2.0,
+    "t_min": 1.0,
+    "t_max": 2.0,
+    "lambda_min": 0.05,
+    "lambda_max": 0.5,
+    "reliability_tau": 0.5,
+    "mu_brier": 0.05,
+    "student_type": "mlp",
+    "mlp_hidden1": 64,
+    "mlp_hidden2": 32,
+    "student_epochs": 200
+  },
+  "equal_dataset_means": {
+    "MCC": 0.6196411740270209,
+    "F1": 0.7255173229376344,
+    "GMean": 0.7907333506643576,
+    "ECE": 0.079730352786506,
+    "Brier": 0.10299476520278586
+  }
+}
+

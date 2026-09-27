@@ -1,0 +1,5 @@
+﻿parameter,value,source,MCC,delta_pp
+gamma,0.5,dedicated_parameter_run,0.6111123242784899,-0.8528849748530964
+gamma,1.0,dedicated_parameter_run,0.6096045759419111,-1.0036598085109816
+gamma,2.0,dedicated_parameter_run,0.6196411740270209,0.0
+gamma,3.0,dedicated_parameter_run,0.6095545301788472,-1.0086643848173704

@@ -1,0 +1,5 @@
+﻿parameter,value,source,MCC,delta_pp
+reliability_tau,0.4,dedicated_parameter_run,0.61718906960946,-0.24521044175609408
+reliability_tau,0.5,main_frozen_default_reference,0.6196411740270209,0.0
+reliability_tau,0.6,dedicated_parameter_run,0.6155014250374847,-0.4139748989536174
+reliability_tau,0.7,dedicated_parameter_run,0.6087896863902871,-1.0851487636733825

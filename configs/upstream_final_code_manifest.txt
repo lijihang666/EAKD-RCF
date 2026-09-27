@@ -1,0 +1,44 @@
+upstream_code_file=ESTD_KD_RCF_SCIENTIFIC_REPORTS_FINAL.py
+upstream_SHA256=E843259E9ADF3A38C2D911DA16F57EAD2D9471D1DB3D58ADBE9E5D0B409AE2A0
+py_compile=PASS
+run_start_local=2026-09-21T10:02:08.289196+08:00
+operating_system=Windows-11-10.0.26200-SP0
+CPU=Intel64 Family 6 Model 151 Stepping 2, GenuineIntel
+logical_cpu_count=16
+GPU=none (CPU runtime)
+RAM_GiB=31.794357299804688
+
+FROZEN_DEFAULTS
+gamma=2.0
+t_min=1.0
+t_max=2.0
+lambda_min=0.05
+lambda_max=0.5
+reliability_tau=0.5
+mu_brier=0.05
+cb_beta=0.999
+student_type=mlp
+mlp_hidden1=64
+mlp_hidden2=32
+mlp_dropout=0.1
+student_epochs=200
+student_lr=0.01
+rcf_min_alpha=0.5
+rcf_max_alpha=0.95
+rcf_C=0.25
+use_reliable_soft_label=False
+estd_decouple_kd_class_weight=False
+random_state=42
+formal_n_splits=5
+formal_n_repeats=5
+formal_seeds=42,43,44,45,46
+full_method_lambda=training_fold_reliability_mean_lambda_bar
+samplewise_reliability_lambda=False
+
+DATA_PATH_NOTE
+requested_data_dir=data
+requested_data_dir_exists=False
+resolved_existing_data_dir=data
+
+Versions are recorded in environment_versions.txt.
+Smoke/formal experiment_config.json will be checked after each run.

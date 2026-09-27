@@ -1,0 +1,4 @@
+﻿parameter,value,source,MCC,delta_pp
+lambda_max,0.3,dedicated_parameter_run,0.6071164886929928,-1.2524685334028063
+lambda_max,0.5,dedicated_parameter_run,0.6196411740270209,0.0
+lambda_max,0.7,dedicated_parameter_run,0.6165460127246063,-0.30951613024146063

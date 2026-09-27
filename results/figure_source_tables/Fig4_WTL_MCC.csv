@@ -1,0 +1,15 @@
+﻿Method,win,tie,loss,WinTie,Total,MetricLabel
+LR,5,0,4,5,9,MCC
+RF,9,0,0,9,9,MCC
+XGBoost,8,0,1,8,9,MCC
+BalancedRF,8,0,1,8,9,MCC
+EasyEnsemble,8,0,1,8,9,MCC
+KD,6,0,3,6,9,MCC
+Yang-ATD-adapted,6,0,3,6,9,MCC
+BKD,4,0,5,4,9,MCC
+CBD,7,0,2,7,9,MCC
+CCKD,5,0,4,5,9,MCC
+SRW-KD,6,0,3,6,9,MCC
+UMKD-UDD-adapted,7,0,2,7,9,MCC
+CB-DistillGrad,9,0,0,9,9,MCC
+CalibKD,4,0,5,4,9,MCC

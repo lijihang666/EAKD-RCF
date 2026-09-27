@@ -1,0 +1,4 @@
+﻿parameter,value,source,MCC,delta_pp
+mu_brier,0.0,dedicated_parameter_run,0.6150101242079233,-0.4631049819097566
+mu_brier,0.05,dedicated_parameter_run,0.6196411740270209,0.0
+mu_brier,0.1,dedicated_parameter_run,0.6154342691823461,-0.4206904844674786
